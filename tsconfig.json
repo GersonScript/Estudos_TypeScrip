@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",                                 /* Define a versão do JavaScript para a saída. */
+    "module": "commonjs",                               /* Define o sistema de módulos como CommonJS. */
+    "rootDir": "./src",                                 /* Define o diretório raiz dos arquivos de origem. */
+    "outDir": "./dist",                                 /* Define o diretório para os arquivos gerados. */
+    "esModuleInterop": true,                            /* Facilita o suporte para importação de módulos CommonJS. */
+    "forceConsistentCasingInFileNames": true,           /* Garante que os imports respeitem a capitalização correta. */
+    "strict": true,                                     /* Ativa todas as opções de checagem de tipo estrita. */
+    "skipLibCheck": true                                /* Ignora a checagem de tipos em arquivos de definição (.d.ts). */
+  }
+  
+}
